@@ -1,0 +1,60 @@
+[
+  {
+    "id": 1,
+    "name": "PASTA & CHOWMEIN",
+    "res": "Saimoon Restaurant",
+    "description": "Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin at the good health for you.",
+    "img": "https://i.ibb.co/dpTGPXB/pexels-photo-842571.jpg",
+    "price":"200",
+    "time":"25"
+  },
+  {
+    "id": 2,
+    "name": "DOUBLE CHEESE PAN",
+    "res": "Pizza Valley",
+    "description": "Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin at the good health for you.",
+    "img": "https://i.ibb.co/cwKfVv1/pexels-photo-604969.jpg",
+    "price":"250",
+    "time":"56"
+  },
+  {
+    "id": 3,
+    "name": "DUMSTICK DHAMAKA",
+    "res": "MS Kitchen",
+    "description": "Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin at the good health for you.",
+    "img": "https://i.ibb.co/f1mkmdD/pexels-tijana-drndarski-3338681.jpg",
+    "price":"360",
+    "time":"25"
+  },
+  {
+    "id": 4,
+    "name": "SUB PLATTER",
+    "res": "Golden Spoon Restaurant",
+    "description": "Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin at the good health for you.",
+    "img": "https://i.ibb.co/FKfFg0p/pexels-photo-1508662.jpg",
+    "price":"120",
+    "time":"50"
+  },
+  {
+    "id": 5,
+    "name": "SPICY PIZZA PAN",
+    "res": "New Sultan's Dine",
+    "description": "Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin at the good health for you.",
+    "img": "https://i.ibb.co/GWbhfvy/pexels-photo-315755.jpg",
+    "price":"190",
+    "time":"15"
+  },
+  {
+    "id": 6,
+    "name": "VEGETABLE FRIED RICE",
+    "res": "Kutumbari Restaurant",
+
+    "description": "Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin at the good health for you.",
+    "img": "https://i.ibb.co/c89GH7W/pexels-photo-1109197.jpg",
+    "price":"240",
+    "time":"45"
+  }
+
+  
+  
+]

@@ -1,0 +1,17 @@
+.foat{
+    z-index: ;
+    position: absolute;
+}
+
+@media only screen and (max-width: 500px){
+
+    .scope{
+        font-size:2px;
+    }
+
+}
+@media only screen and (max-width: 800px){
+
+    
+
+}

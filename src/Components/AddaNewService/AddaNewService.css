@@ -1,0 +1,16 @@
+.setForm{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+
+.setForm input{
+    width: 40%;
+}
+
+.setForm form label{
+    font-weight: bolder;
+    font-size: 20px;
+}

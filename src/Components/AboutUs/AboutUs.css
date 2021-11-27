@@ -1,0 +1,38 @@
+.about{
+    background-image: url("../../images/6.jpg") ; 
+    background-size:contain;
+    background-repeat:no-repeat;
+
+    /* position: relative; */
+    background-position: center;
+   height: 1500px;
+   /* width: 600px; */
+}
+
+
+
+
+@media only screen and (max-width: 500px){
+    .text h1{
+        font-size: 5vw;
+
+    }
+    .text h2{
+        font-size: 3vw;
+
+    }
+    
+
+}
+@media only screen and (max-width: 800px){
+    .text h1{
+        font-size: 5vw;
+
+    }
+    .text h2{
+        font-size: 3vw;
+
+    }
+    
+
+}

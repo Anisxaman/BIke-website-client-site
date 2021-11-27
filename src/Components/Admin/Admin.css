@@ -1,0 +1,16 @@
+.AForm{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+
+.AForm input{
+    width: 40%;
+}
+
+.AForm form label{
+    font-weight: bolder;
+    font-size: 20px;
+}
